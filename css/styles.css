@@ -1,0 +1,20 @@
+body {
+  background-color: #F8ECD1;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #DEB6AB;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1 {
+  color: #85586F;
+  font-family: "Lucida Console";
+}
+h3{
+  color: #AC7D88;
+  font-family: "Lucida Console";
+}
